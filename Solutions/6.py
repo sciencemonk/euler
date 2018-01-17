@@ -23,5 +23,5 @@ for i in range(1,101):
 
 print(square_sum**2)
 
-difference = (square_sum**2)- sum_square
+difference = (square_sum**2) - sum_square
 print('Difference:',difference)
