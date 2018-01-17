@@ -6,11 +6,11 @@
 
 num_list = []
 num_count = 0
-numerator = 1
+numerator = 0
 state = True
 while state:
     num_count = 0
-    numerator += 1
+    numerator += 20
     print(numerator)
     for i in range(1,21):
         if numerator % i == 0:
